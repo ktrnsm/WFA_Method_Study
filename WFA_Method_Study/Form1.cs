@@ -61,7 +61,7 @@ namespace WFA_Method_Study
         int firstNum, output, lastNum1;
 
         private void TypeFibo( int numb)
-        {
+        {                                                                                                                                                                                                                                                                                    
             label1.Text = "";
             int numCounter = Convert.ToInt32(textBox1.Text);
 
